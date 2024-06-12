@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|c:\\users\\frknc\\onedrive\\masa\u00FCst\u00FC\\gezdigimyerler\\gezdigimyerler\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|solutionrelative:gezdigimyerler\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|c:\\users\\frknc\\onedrive\\masa\u00FCst\u00FC\\gezdigimyerler\\gezdigimyerler\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|solutionrelative:gezdigimyerler\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|c:\\users\\frknc\\onedrive\\masa\u00FCst\u00FC\\gezdigimyerler\\gezdigimyerler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|solutionrelative:gezdigimyerler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|c:\\users\\frknc\\onedrive\\masa\u00FCst\u00FC\\gezdigimyerler\\gezdigimyerler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|solutionrelative:gezdigimyerler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|c:\\users\\frknc\\onedrive\\masa\u00FCst\u00FC\\gezdigimyerler\\gezdigimyerler\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|solutionrelative:gezdigimyerler\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|c:\\users\\frknc\\onedrive\\masa\u00FCst\u00FC\\gezdigimyerler\\gezdigimyerler\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|solutionrelative:gezdigimyerler\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|c:\\users\\frknc\\onedrive\\masa\u00FCst\u00FC\\gezdigimyerler\\gezdigimyerler\\gezdigimyerler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88F3A790-61EB-4303-BFAB-97E33AF33191}|GezdigimYerler\\GezdigimYerler.csproj|solutionrelative:gezdigimyerler\\gezdigimyerler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Program.cs",
+              "RelativeDocumentMoniker": "GezdigimYerler\\Program.cs",
+              "ToolTip": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Program.cs",
+              "RelativeToolTip": "GezdigimYerler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:38:45.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Startup.cs",
+              "RelativeDocumentMoniker": "GezdigimYerler\\Startup.cs",
+              "ToolTip": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Startup.cs",
+              "RelativeToolTip": "GezdigimYerler\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:38:13.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\appsettings.json",
+              "RelativeDocumentMoniker": "GezdigimYerler\\appsettings.json",
+              "ToolTip": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\appsettings.json",
+              "RelativeToolTip": "GezdigimYerler\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T10:37:42.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlacesController.cs",
+              "DocumentMoniker": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Controllers\\PlacesController.cs",
+              "RelativeDocumentMoniker": "GezdigimYerler\\Controllers\\PlacesController.cs",
+              "ToolTip": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Controllers\\PlacesController.cs",
+              "RelativeToolTip": "GezdigimYerler\\Controllers\\PlacesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:37:26.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GezdigimYerler\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GezdigimYerler\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:36:46.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "GezdigimYerler\\Models\\Place.cs",
+              "ToolTip": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\Models\\Place.cs",
+              "RelativeToolTip": "GezdigimYerler\\Models\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:35:30.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GezdigimYerler",
+              "DocumentMoniker": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\GezdigimYerler.csproj",
+              "RelativeDocumentMoniker": "GezdigimYerler\\GezdigimYerler.csproj",
+              "ToolTip": "C:\\Users\\frknc\\OneDrive\\Masa\u00FCst\u00FC\\GezdigimYerler\\GezdigimYerler\\GezdigimYerler.csproj",
+              "RelativeToolTip": "GezdigimYerler\\GezdigimYerler.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T10:34:58.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

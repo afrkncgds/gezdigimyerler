@@ -1,0 +1,6 @@
+@GezdigimYerler_HostAddress = http://localhost:5282
+
+GET {{GezdigimYerler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
